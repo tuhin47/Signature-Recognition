@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/thesis/Desktop/Signature-model/F-Model-CharacterRecognition"
+all_model_checkpoint_paths: "/home/thesis/Desktop/Signature-model/F-Model-CharacterRecognition"
